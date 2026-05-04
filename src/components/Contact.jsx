@@ -109,7 +109,7 @@ const Contact = () => {
               <i className="fa-solid fa-location-dot"></i>
               <div>
                 <strong>Address</strong>
-                <p>123 Luxury Drive, Automotive Hub<br/>Business District, City Center</p>
+                <p>New Kandy Road, <br/>Malabe, Sri Lanka</p>
               </div>
             </li>
           </ul>
