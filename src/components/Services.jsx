@@ -15,7 +15,7 @@ const Services = () => {
           <h4>Fast Delivery</h4>
         </div>
         <div className="service-item">
-          <i class="fa-solid fa-shield-check"></i>
+          <i class="fa-solid fa-shield-halved"></i>
           <h4>Secure Platform</h4>
         </div>
       </div>

@@ -8,52 +8,52 @@ const Fleet = () => {
   const cars = [
     {
       id: 1,
-      name: 'Toyota Prius',
-      image: '/assets/car_prius_1777892842311.png',
+      name: "Toyota Prius",
+      image: "https://cdn.lakpura.com/images/LK949A71FC-01-E.JPG",
       seats: 5,
       bags: 2,
-      price: '8,000'
+      price: "9,000",
     },
     {
       id: 2,
-      name: 'Suzuki Alto',
-      image: '/assets/car_compact_1777892867032.png',
+      name: "Suzuki Alto",
+      image: "/assets/car_compact_1777892867032.png",
       seats: 4,
       bags: 1,
-      price: '4,500'
+      price: "4,500",
     },
     {
       id: 3,
-      name: 'Honda Accord',
-      image: '/assets/car_sedan_1777892886204.png',
+      name: "Honda Accord",
+      image: "/assets/car_sedan_1777892886204.png",
       seats: 5,
       bags: 3,
-      price: '12,000'
+      price: "12,000",
     },
     {
       id: 4,
-      name: 'Toyota Prius',
-      image: '/assets/car_prius_1777892842311.png',
+      name: "Toyota Prius",
+      image: "/assets/car_prius_1777892842311.png",
       seats: 5,
       bags: 2,
-      price: '8,000'
+      price: "8,000",
     },
     {
       id: 5,
-      name: 'Suzuki Alto',
-      image: '/assets/car_compact_1777892867032.png',
+      name: "Suzuki Alto",
+      image: "/assets/car_compact_1777892867032.png",
       seats: 4,
       bags: 1,
-      price: '4,500'
+      price: "4,500",
     },
     {
       id: 6,
-      name: 'Honda Accord',
-      image: '/assets/car_sedan_1777892886204.png',
+      name: "Honda Accord",
+      image: "/assets/car_sedan_1777892886204.png",
       seats: 5,
       bags: 3,
-      price: '12,000'
-    }
+      price: "12,000",
+    },
   ];
 
   return (
